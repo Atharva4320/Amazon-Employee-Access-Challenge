@@ -18,7 +18,7 @@ The actual competition could be found at: https://www.kaggle.com/competitions/am
 
 <img width="559" alt="image" src="https://user-images.githubusercontent.com/55175448/175791298-eb7c86da-df64-4954-9e12-5322086203f5.png">
 
-###
+##
 We created three machine learning models with different attributes and uploaded our result on Kaggle to check our model accruacies:
 
 ### 1) Shallow Model (RandomForestClassifier)
