@@ -19,7 +19,7 @@ Visualizing  raw and augmented data:
 
 We created three of machine learning models with different attributes and uploaded our result on Kaggle to check our model accruacies:
 ### 1) Shallow Model (RandomForestClassifier)
-        Test 
+
 
 ### 2) 3 Layer Neural Network Model
 
