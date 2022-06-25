@@ -18,8 +18,8 @@ The actual competition could be found at: https://www.kaggle.com/competitions/am
 
 <img width="559" alt="image" src="https://user-images.githubusercontent.com/55175448/175791298-eb7c86da-df64-4954-9e12-5322086203f5.png">
 
-## 
-We created three of machine learning models with different attributes and uploaded our result on Kaggle to check our model accruacies:
+###
+We created three machine learning models with different attributes and uploaded our result on Kaggle to check our model accruacies:
 
 ### 1) Shallow Model (RandomForestClassifier)
 
@@ -29,3 +29,7 @@ We created three of machine learning models with different attributes and upload
 ### 2) 3 Layer Neural Network Model
 
 ### 3) Deep (5 Layer) Neural Network Model
+
+###
+
+Detailed project report can be found at: [Group2_Homework6_FinalReport.pdf](https://github.com/Atharva4320/Amazon-Employee-Access-Challenge/files/8985622/Group2_Homework6_FinalReport.pdf)
