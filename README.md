@@ -30,6 +30,9 @@ We created three machine learning models with different attributes and uploaded 
 
 ### 3) Deep (5 Layer) Neural Network Model
 
-###
+<img width="521" alt="image" src="https://user-images.githubusercontent.com/55175448/175791945-528a4005-1956-4f66-aa76-ab02f32134bb.png">
+
+
+##
 
 Detailed project report can be found at: [Group2_Homework6_FinalReport.pdf](https://github.com/Atharva4320/Amazon-Employee-Access-Challenge/files/8985622/Group2_Homework6_FinalReport.pdf)
