@@ -14,7 +14,7 @@ employee having the listed characteristics should have access to the listed reso
 
 The actual competition could be found at: https://www.kaggle.com/competitions/amazon-employee-access-challenge/overview
 
-Visualizing  raw and augmented data:
+## Visualizing  raw and augmented data:
 
 <img width="559" alt="image" src="https://user-images.githubusercontent.com/55175448/175791298-eb7c86da-df64-4954-9e12-5322086203f5.png">
 
@@ -26,4 +26,3 @@ We created three of machine learning models with different attributes and upload
 ### 2) 3 Layer Neural Network Model
 
 ### 3) Deep (5 Layer) Neural Network Model
-# Amazon-Employee-Access-Challenge
